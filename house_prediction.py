@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1CicNYz6VzKH4ymLFOwZoIo7-2z2e0RHr
 """
 
-path="/content/Housing.csv"
+path=
 
 import pandas as pd
 
